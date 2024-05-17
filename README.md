@@ -23,7 +23,3 @@ python manage.py createsuperuser
 ```sh
 python manage.py runserver
 ```
-
-
-
-

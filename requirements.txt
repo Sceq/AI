@@ -7,3 +7,5 @@ tensorflow==2.13.0
 protobuf==3.20.3
 openai==0.28
 python-dotenv
+scikit-learn
+webcolors
